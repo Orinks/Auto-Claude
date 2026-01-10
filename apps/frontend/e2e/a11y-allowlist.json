@@ -1,0 +1,5 @@
+{
+  "$schema": "./a11y-allowlist.schema.json",
+  "description": "Allowlist of known accessibility violations that should not fail CI builds. Each entry must document the reason and a plan for remediation.",
+  "knownViolations": []
+}
